@@ -1,6 +1,6 @@
-$ git clone https://github.com/corenft/corenft.github.io
-$ cd corenft.github.io
-$ echo "hello world" > index.html
+~ $ git clone https://github.com/corenft/corenft.github.io
+~ $ cd corenft.github.io
+~ $ echo "hello world" > index.html
 
 
 
